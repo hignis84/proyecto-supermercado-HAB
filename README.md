@@ -17,6 +17,9 @@ Este proyecto consiste en dos Jupyter Notebooks que analizan datos de un superme
   git clone https://github.com/joferte84/proyecto-supermercado-HAB.git
 ```
 
-2. Instala las dependencias necesarias (se sugiere verificar y crear un `requirements.txt` si es necesario).
-3. Abre los notebooks para explorar y ejecutar los análisis.
+2. Instala las dependencias necesarias:
+```bash
+  pip install -r requirements.txt
+```
+4. Abre los notebooks para explorar y ejecutar los análisis.
 
